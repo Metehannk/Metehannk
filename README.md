@@ -9,23 +9,37 @@
 
 - 🎞️ I build **browser-based video tools** — editing, encoding and exporting that run fully on the user's device.
 - ✂️ I automate the boring parts of content production (silence cutting, jump cuts, multi-format exports).
-- ⚙️ Currently working on **Kesit**, an in-browser short-video editor for Reels, TikTok and Shorts.
+- 🌐 Builder of **[Kesit](https://kesitvideo.com)** (short-video editor) and **[WrenPDF](https://wrenpdf.com)** (PDF toolkit) — both run 100% in the browser, files never leave your device.
 - 📍 Based in Balıkesir, Türkiye.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### ✂️ Kesit — In-browser short video editor *(in development, private)*
-A short-video editor and toolset that runs entirely in the browser — **no video is ever uploaded to a server**.
+#### ✂️ [Kesit](https://kesitvideo.com) — Short-video editor in your browser
+🔗 **Live:** [kesitvideo.com](https://kesitvideo.com) · 📸 [@kesitvideo.app](https://www.instagram.com/kesitvideo.app)
+
+A short-video editor for Reels, TikTok and Shorts that runs entirely in the browser — **no video is ever uploaded to a server, no watermark**, free exports up to 1080p 60 fps.
 
 - Multi-track timeline (video, audio, text, captions), split / ripple delete / linked clips
 - Video engine on **WebCodecs + Mediabunny**, compositing with **PixiJS (WebGPU / WebGL2)**, export in a Web Worker
 - On-device **automatic subtitles** (Whisper via transformers.js) in Turkish & English
 - One-click export to **9:16, 1:1, 4:5 and 16:9**
+- 15 transitions, filters & colour controls, audio fades and noise reduction
 - 12 single-purpose tools (trim, merge, compress, convert, video → GIF…)
 - Membership & billing: **Cloudflare Workers, Hono, D1 + Drizzle, Better Auth, Polar**
 - Monorepo with pnpm, TypeScript strict, Astro + React, tested with **Vitest & Playwright**, CI on GitHub Actions
+
+#### 📄 [WrenPDF](https://wrenpdf.com) — Free PDF tools in your browser
+🔗 **Live:** [wrenpdf.com](https://wrenpdf.com)
+
+An all-in-one PDF toolkit — merge, compress, convert, edit and sign — with **no sign-up, no watermark and no daily limit**. Files are processed on the user's device.
+
+- 30+ tools across Convert, Edit and Manage
+- PDF ⇄ Word, Excel, images (JPG/PNG/WebP), HTML, Markdown and more
+- **OCR** — turns scanned PDFs into searchable text
+- Edit PDF text, sign documents, scan documents with the phone camera
+- Multilingual (Turkish / English), dark mode, quick tool search (Ctrl + K)
 
 #### 🔇 [Premiere Türkçe Sessizlik Kesici](https://github.com/Metehannk/premiere-turkce-sessizlik-kesici)
 Free, Turkish-localized alternative to paid auto-cut tools for **Adobe Premiere Pro**.
@@ -75,15 +89,5 @@ Free, Turkish-localized alternative to paid auto-cut tools for **Adobe Premiere 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehannk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metehan652t@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Metehannk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Metehannk&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metehannk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![Kesit](https://img.shields.io/badge/kesitvideo.com-1B1D20?style=for-the-badge&logo=googlechrome&logoColor=FFD23F)](https://kesitvideo.com)
+[![WrenPDF](https://img.shields.io/badge/wrenpdf.com-E0322B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://wrenpdf.com)
