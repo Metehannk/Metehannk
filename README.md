@@ -5,19 +5,19 @@
 
 ---
 
-### 🎬 About Me
+###  About Me
 
-- 🎞️ I build **browser-based video tools** — editing, encoding and exporting that run fully on the user's device.
-- ✂️ I automate the boring parts of content production (silence cutting, jump cuts, multi-format exports).
-- 🌐 Builder of **[Kesit](https://kesitvideo.com)** (short-video editor) and **[WrenPDF](https://wrenpdf.com)** (PDF toolkit) — both run 100% in the browser, files never leave your device.
-- 📍 Based in Balıkesir, Türkiye.
+-  I build **browser-based video tools** — editing, encoding and exporting that run fully on the user's device.
+-  I automate the boring parts of content production (silence cutting, jump cuts, multi-format exports).
+-  Builder of **[Kesit](https://kesitvideo.com)** (short-video editor) and **[WrenPDF](https://wrenpdf.com)** (PDF toolkit) — both run 100% in the browser, files never leave your device.
+-  Based in Balıkesir, Türkiye.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### ✂️ [Kesit](https://kesitvideo.com) — Short-video editor in your browser
-🔗 **Live:** [kesitvideo.com](https://kesitvideo.com) · 📸 [@kesitvideo.app](https://www.instagram.com/kesitvideo.app)
+####  [Kesit](https://kesitvideo.com) — Short-video editor in your browser
+ **Live:** [kesitvideo.com](https://kesitvideo.com) ·  [@kesitvideo.app](https://www.instagram.com/kesitvideo.app)
 
 A short-video editor for Reels, TikTok and Shorts that runs entirely in the browser — **no video is ever uploaded to a server, no watermark**, free exports up to 1080p 60 fps.
 
@@ -30,8 +30,8 @@ A short-video editor for Reels, TikTok and Shorts that runs entirely in the brow
 - Membership & billing: **Cloudflare Workers, Hono, D1 + Drizzle, Better Auth, Polar**
 - Monorepo with pnpm, TypeScript strict, Astro + React, tested with **Vitest & Playwright**, CI on GitHub Actions
 
-#### 📄 [WrenPDF](https://wrenpdf.com) — Free PDF tools in your browser
-🔗 **Live:** [wrenpdf.com](https://wrenpdf.com)
+####  [WrenPDF](https://wrenpdf.com) — Free PDF tools in your browser
+ **Live:** [wrenpdf.com](https://wrenpdf.com)
 
 An all-in-one PDF toolkit — merge, compress, convert, edit and sign — with **no sign-up, no watermark and no daily limit**. Files are processed on the user's device.
 
@@ -41,7 +41,7 @@ An all-in-one PDF toolkit — merge, compress, convert, edit and sign — with *
 - Edit PDF text, sign documents, scan documents with the phone camera
 - Multilingual (Turkish / English), dark mode, quick tool search (Ctrl + K)
 
-#### 🔇 [Premiere Türkçe Sessizlik Kesici](https://github.com/Metehannk/premiere-turkce-sessizlik-kesici)
+####  [Premiere Türkçe Sessizlik Kesici](https://github.com/Metehannk/premiere-turkce-sessizlik-kesici)
 Free, Turkish-localized alternative to paid auto-cut tools for **Adobe Premiere Pro**.
 
 - Detects silences, pauses and breaths with an adjustable dB threshold
@@ -51,7 +51,7 @@ Free, Turkish-localized alternative to paid auto-cut tools for **Adobe Premiere 
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 **Languages**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -85,7 +85,7 @@ Free, Turkish-localized alternative to paid auto-cut tools for **Adobe Premiere 
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehannk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metehan652t@gmail.com)
